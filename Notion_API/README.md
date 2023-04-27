@@ -1,4 +1,4 @@
-Notion API
+# Notion API
 
 1\. Context 📚
 
@@ -15,7 +15,15 @@ pages, as they are called in Notion) to your preferred databases
 
 3\. Technology Stack 🖥️
 
-Programming Langhuage: \* Python Libraries: \* Requests \* Json
+Programming Langhuage: 
+* Python 
+Libraries: 
+* Requests 
+* Json
 
-4\. Folder\'s Structure 📂 └── Notion_API ├── Notion API - Automation
-Implementation.ipynb └── README.md
+4\. Folder\'s Structure 📂 
+```bash
+└── Notion_API
+    ├── Notion API - Automation Implementation.ipynb
+    └── README.md
+```
